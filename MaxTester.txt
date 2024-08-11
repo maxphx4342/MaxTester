@@ -1,0 +1,10 @@
+## Title: |cd4af37Max|r|c00ff00Tester|r
+## Author: |ccca3ff@max4342|r
+## APIVersion: 101040
+## AddOnVersion: 20240811
+## Version: 1
+## Description: Testing API GAME Function, ESOUI Lib and learn lua Addon
+## SavedVariables: MaxTesterSavedVariables
+## OptionalDependsOn: LibAddonMenu-2.0>=34
+
+MT_Core.lua
